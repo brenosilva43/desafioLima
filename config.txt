@@ -1,0 +1,8 @@
+[Conf]
+path_key = YOUR PATH TO JSON FILE
+table_id = YOUR TABLE ID
+[Bot]
+site = https://www.bbc.com/
+xpath_resumo = /html/body/div[8]/div/section[4]/div/div/div[2]/div/section[1]/div/ul/li[1]/div/div[2]/p
+xpath_chamada = /html/body/div[8]/div/section[4]/div/div/div[2]/div/section[1]/div/ul/li[1]/div/div[2]/h3/a
+
